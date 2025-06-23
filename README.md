@@ -146,4 +146,3 @@ The calculator follows modern design principles:
 ## 👨‍💻 Author
 
 **Ayokanmi Adejola**
-# Javascript-Calculator
