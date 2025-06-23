@@ -2,6 +2,7 @@
 
 A beautiful, fully-featured JavaScript calculator built with React and TypeScript that meets all FreeCodeCamp requirements. This production-ready calculator implements proper formula logic with order of operations and handles all edge cases.
 
+![image](https://github.com/user-attachments/assets/ac35a5b5-491f-4835-9f23-9ad8a6aeb583)
 
 ## 🚀 Features
 
