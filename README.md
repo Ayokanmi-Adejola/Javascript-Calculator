@@ -46,7 +46,7 @@ This calculator fulfills all 15 user stories from the FreeCodeCamp JavaScript Ca
 3. ✅ Contains 4 operator elements with IDs: `add`, `subtract`, `multiply`, `divide`
 4. ✅ Contains decimal element with `id="decimal"`
 5. ✅ Contains clear element with `id="clear"`
-6. ✅ Contains display element with `id="display"`
+6. ✅ Contains display element with `id="display"` 
 7. ✅ Clear button resets calculator to initial state (shows 0)
 8. ✅ Numbers display as they're input
 9. ✅ Chain calculations work correctly with proper order of operations
